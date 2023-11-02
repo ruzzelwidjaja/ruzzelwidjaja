@@ -11,7 +11,7 @@
 
 ## A little bit about me:
 
-- 🔭 I’m currently searching for **Software Developer** positions
+- 🔭 I’m currently searching for a **Software Developer** position
 - 🌱 I’m currently learning **Next.Js, TypeScript, Solidity, and Figma**
 - 📫 Feel free to reach me on [LinkedIn](https://linkedin.com/in/ruzzelwidjaja)!
 - 👨🏻‍💻 **Specialties:** Web Development, Data Analytics
